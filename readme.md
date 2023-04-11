@@ -1,1 +1,1 @@
-# HTML/CSS/Bootstrap Templae
+# HTML/CSS/Bootstrap Template
